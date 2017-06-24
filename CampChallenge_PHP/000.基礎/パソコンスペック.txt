@@ -1,0 +1,5 @@
+パソコンスペック
+エディション：Windows10Home
+バージョン：1607
+プロセッサ：Intel（R)Core(TM）i5-7200U CPU@2.50GHz 2-70GHz
+実装RAM:8.00GB
